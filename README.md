@@ -1,5 +1,8 @@
-# [DPhi](https://dphi.tech/) MachineLearning bootcamp
+# [DPhi](https://dphi.tech/) Machine Learning Bootcamp
+
+
 Repository for the assignments of the DPhi Machine Learning bootcamp 
+
 
 ## Assignment 1
 
